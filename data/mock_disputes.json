@@ -1,0 +1,165 @@
+[
+  {
+    "dispute_id": "DSP-2026-8891",
+    "transaction_id": "TXN-991823",
+    "order_id": "ORD-101429",
+    "customer_id": "CUST-04281",
+    "customer_name": "Marcus Vance",
+    "customer_email": "mvance.tech@gmail.com",
+    "amount_disputed": 349.99,
+    "currency": "USD",
+    "dispute_date": "2026-08-14",
+    "card_brand": "VISA",
+    "reason_code": "10.4",
+    "reason_description": "Other Fraud: Card-Absent Environment (Customer claims unauthorized transaction)",
+    "evidence": {
+      "avs_result": "FULL_MATCH",
+      "cvv_result": "MATCH",
+      "ip_address": "198.51.100.42",
+      "ip_location": "Austin, TX, US",
+      "billing_address": "4200 North Lamar Blvd, Suite 300, Austin, TX 78756",
+      "shipping_address": "4200 North Lamar Blvd, Suite 300, Austin, TX 78756",
+      "carrier": "FedEx",
+      "tracking_number": "789123456789",
+      "carrier_status": "DELIVERED",
+      "delivery_timestamp": "2026-08-08 14:22:10 UTC",
+      "signature_name": "M. VANCE",
+      "prior_undisputed_orders_count": 5,
+      "same_device_used_previously": true,
+      "chat_logs": [
+        {
+          "timestamp": "2026-08-09 10:15:00 UTC",
+          "sender": "Customer (Marcus Vance)",
+          "message": "Hi, I received the noise-canceling headphones yesterday. How do I pair them with dual devices?"
+        },
+        {
+          "timestamp": "2026-08-09 10:18:22 UTC",
+          "sender": "Support Agent",
+          "message": "Hold the power button for 5 seconds until the LED flashes blue. Let us know if you need further help!"
+        },
+        {
+          "timestamp": "2026-08-09 10:20:05 UTC",
+          "sender": "Customer (Marcus Vance)",
+          "message": "Got it working, thanks so much!"
+        }
+      ]
+    }
+  },
+  {
+    "dispute_id": "DSP-2026-8892",
+    "transaction_id": "TXN-992144",
+    "order_id": "ORD-102911",
+    "customer_id": "CUST-05192",
+    "customer_name": "Elena Rostova",
+    "customer_email": "elena.r.shopping@yahoo.com",
+    "amount_disputed": 189.5,
+    "currency": "USD",
+    "dispute_date": "2026-08-16",
+    "card_brand": "MASTERCARD",
+    "reason_code": "4853",
+    "reason_description": "Cardholder Dispute: Merchandise Not Received",
+    "evidence": {
+      "avs_result": "ZIP_MATCH_ONLY",
+      "cvv_result": "MATCH",
+      "ip_address": "203.0.113.88",
+      "ip_location": "Chicago, IL, US",
+      "billing_address": "120 S Riverside Plaza, Chicago, IL 60606",
+      "shipping_address": "840 N Michigan Ave, Chicago, IL 60611",
+      "carrier": "UPS",
+      "tracking_number": "1Z9999999999999999",
+      "carrier_status": "DELIVERED",
+      "delivery_timestamp": "2026-08-11 16:45:00 UTC",
+      "signature_name": "LEFT AT FRONT DOOR - PHOTO PROOF AVAILABLE",
+      "prior_undisputed_orders_count": 0,
+      "same_device_used_previously": false,
+      "chat_logs": [
+        {
+          "timestamp": "2026-08-13 11:00:00 UTC",
+          "sender": "Customer",
+          "message": "Tracking says delivered Tuesday but I checked my lobby and nothing is there."
+        },
+        {
+          "timestamp": "2026-08-13 11:30:00 UTC",
+          "sender": "Support Agent",
+          "message": "We have opened a carrier trace investigation ticket with UPS #TRC-88192."
+        }
+      ]
+    }
+  },
+  {
+    "dispute_id": "DSP-2026-8893",
+    "transaction_id": "TXN-993502",
+    "order_id": "ORD-104112",
+    "customer_id": "CUST-01103",
+    "customer_name": "David K. Chen",
+    "customer_email": "david.chen98@outlook.com",
+    "amount_disputed": 799.0,
+    "currency": "USD",
+    "dispute_date": "2026-08-18",
+    "card_brand": "VISA",
+    "reason_code": "13.3",
+    "reason_description": "Not as Described / Defective Merchandise",
+    "evidence": {
+      "avs_result": "FULL_MATCH",
+      "cvv_result": "MATCH",
+      "ip_address": "198.51.100.17",
+      "ip_location": "Seattle, WA, US",
+      "billing_address": "701 5th Ave, Seattle, WA 98104",
+      "shipping_address": "701 5th Ave, Seattle, WA 98104",
+      "carrier": "DHL",
+      "tracking_number": "9876543210",
+      "carrier_status": "DELIVERED",
+      "delivery_timestamp": "2026-08-05 09:12:00 UTC",
+      "signature_name": "D. CHEN",
+      "prior_undisputed_orders_count": 8,
+      "same_device_used_previously": true,
+      "chat_logs": [
+        {
+          "timestamp": "2026-08-06 14:00:00 UTC",
+          "sender": "Customer (David)",
+          "message": "The specs on the monitor match the product page, but I decided I want a 4K OLED instead of 1440p. Can I get a full refund without return shipping?"
+        },
+        {
+          "timestamp": "2026-08-06 14:15:00 UTC",
+          "sender": "Support Agent",
+          "message": "You can return within 30 days using our prepaid label with a $15 restocking fee as per store policy terms agreed at checkout."
+        },
+        {
+          "timestamp": "2026-08-06 14:18:00 UTC",
+          "sender": "Customer (David)",
+          "message": "I won't pay a restock fee. I will just dispute the charge with my bank."
+        }
+      ]
+    }
+  },
+  {
+    "dispute_id": "DSP-2026-8894",
+    "transaction_id": "TXN-994200",
+    "order_id": "ORD-105820",
+    "customer_id": "CUST-08819",
+    "customer_name": "Unknown / Masked",
+    "customer_email": "fastbuyer9921@tempmail.ninja",
+    "amount_disputed": 1240.0,
+    "currency": "USD",
+    "dispute_date": "2026-08-20",
+    "card_brand": "VISA",
+    "reason_code": "10.4",
+    "reason_description": "Other Fraud: Card-Absent Environment (Stolen card used)",
+    "evidence": {
+      "avs_result": "NO_MATCH",
+      "cvv_result": "NO_MATCH",
+      "ip_address": "185.220.101.5",
+      "ip_location": "Frankfurt, DE (Tor Exit Node)",
+      "billing_address": "100 Wall St, New York, NY 10005",
+      "shipping_address": "Freight Forwarder Unit 4, Doral, FL 33178",
+      "carrier": "FedEx",
+      "tracking_number": "789999111222",
+      "carrier_status": "DELIVERED",
+      "delivery_timestamp": "2026-08-17 11:00:00 UTC",
+      "signature_name": "DOCK SIGNATURE",
+      "prior_undisputed_orders_count": 0,
+      "same_device_used_previously": false,
+      "chat_logs": []
+    }
+  }
+]
